@@ -71,8 +71,8 @@ Keskinocak P, Oruc BE, Baxter A, Asplund J, Serban N (2020) The impact of social
 ### Additional Contributors: 
 
 The authors of this paper are thankful to state representatives for sharing multiple data sources from the cases confirmed in Georgia to date. The authors are also thankful to Melody Shellman, Hannah Lin, Ethan Channel, Pravara Harati, Zhuoting April Yu, and Christopher Stone for supporting various parts of the projects.
-This research was supported in part by NSF grant 1828187 and through research cyberinfrastructure resources and services provided by the Partnership for an Advanced Computing Environment (PACE) at the Georgia Institute of Technology.
 
 ### Sources of Funding and Support:
 
 The research was supported by the William W. George and by the Virginia C. and Joseph C. Mello endowments at Georgia Tech.
+This research was also supported in part by NSF grant 1828187 and through research cyberinfrastructure resources and services provided by the Partnership for an Advanced Computing Environment (PACE) at the Georgia Institute of Technology.
